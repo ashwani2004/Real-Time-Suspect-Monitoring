@@ -62,7 +62,7 @@ face-recognition-monitoring/
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/face-recognition-monitoring.git
+git clone https://github.com/ashwani2004/Real-Time-Suspect-Monitoring.git
 
 cd face-recognition-monitoring
 
